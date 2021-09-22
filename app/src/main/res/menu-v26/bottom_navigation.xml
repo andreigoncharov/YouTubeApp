@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/youtubeFragm"
+        android:title="@string/youtube"
+        android:tooltipText="@string/youtube"
+        />
+    <item
+        android:id="@+id/playlistFragm"
+        android:title="@string/playlist"/>
+
+</menu>
